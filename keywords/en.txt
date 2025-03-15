@@ -1,0 +1,2426 @@
+# Security Event Prefilter - English Keyword List
+# Copyright 2025 Matteo Grella
+#
+# Licensed under CC BY 4.0. https://creativecommons.org/licenses/by/4.0/
+# When using this keyword list, please provide attribution to:
+# Matteo Grella - Security Event Prefilter (github.com/reddot-watch/prefilter)
+
+3D printed weapons
+ATM attack
+ATM disruption
+ATM outage
+ATM theft
+Abu Sayyaf
+Al Qaeda
+Al Shabaab
+Amber Alert
+Aryan Brotherhood
+Boko Haram
+CBRN
+Daesh
+ETA
+FARC
+GPS outage
+HME
+Hazmat incident
+Hezbollah
+IED
+IED attack
+IED threat
+IRA
+ISIL
+ISIS
+Intifada
+IoT device compromise
+KKK
+LTTE
+Maute group
+NBC incident
+OT security incident
+PBIED
+PSIM
+Proud Boys
+SCADA attack
+SCADA disruption
+Taliban
+UAV intrusion
+UXO
+VBIED
+Zapatista
+a bomb
+abduct
+abducted
+abductees
+abduction
+abductions
+abductors
+abducts
+access control breach
+access control failure
+access restricted
+accident
+accidents
+accountability
+accused
+acid attack
+active assailant
+active crime scene
+active investigation
+active shooter
+active situation
+active threat
+active threat situation
+activists
+adverse incident
+adverse weather
+aerial bombing
+affecting
+aftershock
+aggression
+agricultural disaster
+air alert
+air attack
+air attacks
+air contamination
+air contamination event
+air disaster
+air pollution
+air quality alert
+air quality emergency
+air quality warning
+air raid
+air strike
+air warfare
+air-raid
+airborne hazard
+airborne illness
+aircraft accident
+aircraft crash
+aircraft disappearance
+aircraft emergency
+aircraft emergency landing
+aircraft hijacking
+airplane crash
+airplane diaster
+airplane fall
+airplane falling
+airport closed
+airport disaster
+airport incident
+airport lockdown
+airport security
+airport shutdown
+airspace closure
+airspace shutdown
+airspace violation
+airstrike
+airstrikes
+alarm
+alert
+alert level raised
+allegedly
+alligator killed
+ambassador
+ambassador recalled
+ambush
+ambush attack
+ambushed
+ammunition seizure
+an explosive
+and shot
+animal attack
+animal control
+animal escape
+anthrax
+anti-emergency
+anti-government
+anti-government protest
+anti-government violence
+anti-immigration
+anti-racism
+anti-tank missile
+anti-terror operation
+anti‐government demonstration
+arctic blast
+argmed with guns
+armed
+armed assailant
+armed assailants
+armed assault
+armed attack
+armed confrontation
+armed encounter
+armed fighters
+armed gunman
+armed incident
+armed intruder
+armed pursuit
+armed response
+armed robbery
+armed suspect
+armed trespasser
+army
+army barracks
+army chief
+army headquarter
+arrest
+arrest warrant
+arrested
+arrivie refugee in
+arson
+arson attack
+arson attacks
+arsonist
+artillery
+artillery attack
+asbestos exposure
+asbestos hazard
+ash cloud
+assailants detonated
+assailants fired
+assailants opened
+assailants shot
+assassinate
+assassinated
+assassination
+assault
+assault girl
+assault weapon
+assault with deadly weapon
+assaulted
+assaulted woman
+assaulting woman
+assembly
+asset freeze
+asteroid near-miss
+asylum policy
+asylum seeker
+asylum seeker clash in country refugee center
+asylum seekers
+asylum system
+atm fraud
+attack
+attack plot
+attack thwarted
+attacked
+attacking
+attacks
+attempted assassination
+attempted kidnapping
+attempted murder
+attempted rape
+authorities
+authorities responding
+auto-theft
+autonomous vehicle incident
+avalanche
+avalanche warning
+avalanches
+aviation accident
+aviation crash
+aviation emergency
+aviation security breach
+avoid the area
+avoid travel
+axe attack
+ballistic
+bandh
+bank collapse
+bank insolvency
+bank robbed
+bank robbery
+bank run
+bank transaction failure
+banking disruption
+banking holiday
+bar fight
+barricade
+barricade situation
+barricaded
+barricaded hostage
+barricaded suspect
+barricaded suspect with hostages
+battle
+bear attack
+bear killed
+bio agents
+bio attack
+bioattack
+biohazard
+biohazard alert
+biohazard response
+biohazardous
+biohazardous substance
+biological agents
+biological attack
+biological contamination
+biological exposure
+biological hazard
+biological threat
+biological warfare
+biological weapon
+biological weapons
+biometric breach
+biometric system breach
+biosecurity
+biosecurity threat
+bioterrorism
+black ice
+blackout
+bladed weapon attack
+blast
+blasts
+blister agents
+blizzard
+block roads
+block street
+block streets
+blockade
+blockage
+blocked roads
+blocked the bridge
+blocked traffic
+blocking sidewalks
+blocking streets
+blocking traffic
+bloodshed
+blow themselves up
+blows himself up
+blunt-force trauma
+boat accident
+boat collision
+boat crash
+boat sinking
+bodies
+body found
+bomb
+bomb attack
+bomb cyclone
+bomb detonated
+bomb disposal
+bomb disposal unit
+bomb exploded
+bomb explodes
+bomb explosions
+bomb kills
+bomb materials
+bomb scare
+bomb squad
+bomb threat
+bombarded
+bombardment
+bombed
+bomber kills
+bombing
+bombs
+bombs kill
+booby trap
+border clash
+border cross
+border crossing
+border security incident
+border shutdown
+borders closed
+boycott
+braces for
+brawl
+breach
+break into
+breaking
+breaking news
+bribery
+bridge closure
+bridge collapse
+bridge failure
+bridge inspection
+brush fire
+brush fires
+brushfire
+building collapse
+building collapses
+building evacuation
+building evacuation order
+bullets
+burglary
+burgled
+burned down
+burning houses
+burst into flames
+bus hijacking
+bush fires
+bushfire
+bushfires
+by shooting
+call for massive protest against refugee
+campus shooting
+canceled classes
+cancellation of flights
+captives
+captivity
+captors
+capture
+car accident
+car bomb
+car bombs
+car chase
+car crash
+car crashes
+car detonated
+car exploded
+car explosion
+car flipped
+car ploughs
+car plows
+car stealing
+car stolen
+car theft
+car-ramming
+car-truck accident
+card fraud
+card skimming
+carjack
+carjacked
+carjacking
+cars derails
+casualties
+casualty incident
+catastrophic
+catastrophic damage
+catastrophic event
+ceasefire
+ceiling collapse
+changes in traffic
+chaos
+charges
+checkpoint
+checkpoint activated
+checkpoint closure
+checkpoint incident
+chemical agent
+chemical agents
+chemical attack
+chemical cloud
+chemical contamination
+chemical dispersal
+chemical emergency
+chemical exposure
+chemical hazard
+chemical leak
+chemical odor
+chemical plant explosion
+chemical plant fire
+chemical plume
+chemical plume dispersion
+chemical poisoning
+chemical release
+chemical spill
+chemical terror
+chemical threat
+chemical warfare
+chemical warfare agent detected
+chemical weapon
+chemical weapons
+child abduction
+child labour
+child sex trafficking
+child soldier
+child soldiers
+child-soldier
+child-soldiers
+chlorine
+chlorine bomb
+chlorine gas
+civic resistance
+civil defense alert
+civil disobedience
+civil disturbance
+civil protection
+civil protection exercise
+civil unrest
+civil unrest warning
+civil war
+civilians
+claim asylum
+clamps down
+clash
+clash with police
+clashes
+clashes erupt
+clashing
+climate disaster
+climate emergency
+close call
+closed to traffic
+closure
+cluster infection
+coast guard
+coastal erosion
+coastal flooding
+cocaine dealer
+cocaine-dealing
+code red
+cold wave
+coldwave
+collapse
+collided
+collision
+collision hazard
+communal violence
+communication blackout
+communication failure
+communication outage
+communications disruption
+communications interruption
+compromised
+confidence trick
+confidence tricks
+confrontation
+congestion
+constitutional crisis
+construction accident
+construction failure
+consul
+consular closure
+consulate
+consulate security breach
+contagion
+contagion event
+contagious illness
+contagious outbreak
+containment area
+containment operation
+containment zone
+contaminated food
+contaminated plume
+contaminated product recall
+contaminated water
+contamination
+contamination detected
+contamination event
+contraband seizure
+controlled detonation
+controlled explosion
+corruption
+cosmic radiation hazard
+cougar attack
+cougar killed
+counter terrorism
+counter-protest
+counterterrorism
+coup
+coup attempt
+coup d'état
+coup rumor
+crackdown
+crane collapse
+crash
+crash-lands
+crashes
+crashing
+credible intelligence
+credible threat
+credible tip
+credit card fraud
+crime
+crime alert
+crime scene
+crime spree
+criminal investigation
+criminals
+crisis
+crisis containment
+crisis intervention
+crisis management
+crisis response
+crisis task force activated
+crisis team activated
+crisis unfolding
+critical asset compromised
+critical asset failure
+critical condition
+critical event declared
+critical incident
+critical infrastructure
+critical infrastructure attack
+critical infrastructure compromised
+critical infrastructure failure
+critical resource failure
+critical resource shortage
+critical security alert
+critical system compromise
+critical system failure
+critical system outage
+critical systems offline
+critical warning
+crop failure
+crowd control
+crowd crush
+crowd crush incident
+crowd dispersal
+crowd disruption
+crowd disturbance
+crowd management
+crowd overflow
+crowd panic
+crowd surge
+crowd violence
+crushed
+curfew
+curfew imposed
+currency collapse
+currency crisis
+currency devaluation
+custody
+cyanide
+cyber incident impacting physical security
+cyber sabotage
+cyber-induced disaster
+cyber-induced disruption
+cyber-induced evacuation
+cyber-linked physical disruption
+cyber-physical incident
+cyber-physical threat
+cyberattack
+cyberattack impacting physical safety
+cyclone
+cyclonic storm
+dam break
+dam failure
+damage
+damaged infrastructure
+damaged pipeline
+damages
+damaging
+dangerous chemicals
+dangerous conditions
+dangerous fugitive
+dangerous individual
+dangerous situation
+dangerous suspect
+dangerous wildlife
+data fraud
+dead
+deadliest
+deadly
+deadly insect
+deadly insects
+death
+death toll
+deaths
+deepfake threat
+defective product
+defective products
+defense minister
+delayed
+demolishes
+demonstrate
+demonstrating
+demonstration
+demonstrators
+denounce
+dense fog
+derail
+derailment
+derecho
+deregulation
+destroy
+destroyed
+destroying
+destruction
+detained
+detainment
+detention
+detonated a
+detonated in
+detonation
+devastated
+devastating
+devastation
+developing
+developing story
+developing threat
+development
+device detonated
+device ied
+died
+die‐in
+digital sabotage
+digital sabotage impacting safety
+diplomatic crisis
+diplomatic evacuation
+diplomatic incident
+diplomatic relations severed
+direct action protest
+dirty bomb
+disaster
+disaster declaration
+disaster recovery
+disaster response
+disaster zone declared
+discharged firearm
+discharged weapon
+disease containment
+disease control
+disorder
+dispute
+disputed area
+disputed border zone
+disputed election
+disputed zone
+disrupted
+disruption
+disrupts
+dissent
+disturbance
+diverting
+domestic dispute
+domestic violence
+downpour
+dramatically
+drink spiking
+drinks spiking
+drive crash
+drone
+drone attack
+drone disruption
+drone incident
+drone intrusion
+drone strike
+drone strike threat
+drone surveillance
+drone swarm
+drones
+drought
+drought emergency
+drug dealer
+drug dealers
+drug dealing
+drug raid
+drug smuggler
+drug smuggling
+drug trafficking
+drug-dealing
+drug-smugglers
+drugs
+dust storm
+duststorm
+early warning system
+earth fissure
+earthquake
+earthquake swarm
+economic collapse
+economic crisis
+economic development
+economic disruption
+economic emergency declared
+eco‐terror
+edged weapon attack
+efficient
+election campaign
+election violence
+electoral violence
+electrical fire
+electricity disruption
+electronic sabotage
+elevator accident
+embargo
+embassy
+embassy attack
+embassy evacuation
+embassy security incident
+embassy under siege
+embezzlement
+emergency
+emergency activation
+emergency alert
+emergency broadcast
+emergency broadcast hijack
+emergency closure
+emergency coordination center activated
+emergency crews on scene
+emergency crews responding
+emergency declaration
+emergency dispatch
+emergency drill
+emergency evacuation
+emergency landing
+emergency notification
+emergency order
+emergency procedure initiated
+emergency response
+emergency response team deployed
+emergency scenario
+emergency services
+emergency shutdown
+emergency situation
+emergency structural assessment
+emergency structural inspection
+emissions standards
+employee dispute
+encephalitis virus
+energy crisis
+energy disruption
+energy grid attack
+engine failure
+engine shutdown
+environmental alert
+environmental catastrophe
+environmental disaster
+epidemic
+epidemic control
+epidemic declared
+epidemic threat
+epidemic warning
+erupts
+escalation
+escaped convict
+escaped prisoner
+espionage
+essential service disruption
+ethical accountability
+ethnic cleansing
+ethnic conflict
+ethnic tensions
+ethnic violence
+ethnically motivated
+evacuate
+evacuated
+evacuation
+evacuation drill
+evacuation notice
+evacuation order
+event canceled
+event cancellation
+evolving
+exchange of fire
+executed
+executive
+expatriates
+exploded
+exploding
+explosion
+explosion of combustible
+explosive
+explosive belt
+explosive chemicals
+explosive components
+explosive device
+explosive devices
+explosive materials
+explosive ordnance disposal (EOD)
+explosive vest
+explosives
+explosives seizure
+express kidnappping
+express-kidnapping
+exremist
+extinction rebellion
+extortion
+extortion threat
+extreme cold
+extreme heat
+extreme rainfall
+extreme weather
+extreme weather alert
+extremist
+extremist activity
+extremist attack
+extremist cell
+extremist propaganda
+extremist violence
+facade collapse
+facility breach
+facility evacuation
+facility intrusion
+facility lockdown
+facility shutdown
+factory explosion
+factory fire
+failure
+fake bomb
+fake emergency
+fake emergency call
+famine
+fatal
+fatal accident
+fatal crash
+fatalities
+fear
+femicide
+fentanyl exposure
+ferry accident
+ferry disaster
+ferry disruption
+ferry sinking
+festival disruption
+festival incident
+fighters
+fighting
+finance minister
+financial institution failure
+financial panic
+fine particulate
+fire
+fire outbreak
+firearm
+firearm discharged
+firearms incident
+firebomb
+firebombing
+fired on
+fired upon
+firefight
+firefighters
+fires
+firestorm
+firing
+first responders
+fiscal emergency
+fistfight
+flash flood
+flash flooding
+flash floods
+flash protest
+fleeing suspect
+flight cancellation
+flight diversion
+flight emergency
+flight grounded
+flight suspension
+flights cancelled
+flood
+flood alert
+flood warning
+flooded
+flooded areas
+flooding
+floods
+follow-home robbery
+food contamination
+food shortage
+food tampering
+foodborne illness outbreak
+forced displacement
+forced entry
+forced entry robbery
+forced evacuation
+forced labor
+forced landing
+forced resignation
+forces
+forces deployed
+forcible entry
+foreign intervention
+foreign office
+forest fire
+forged documents
+fraud
+fraud scandal
+frauds
+fraudulent impersonation
+freshwater shortage
+frightened
+frostbite alert
+fuel disruption
+fuel shortage
+fuel spill
+fugitive
+fugitive manhunt
+fugitive sighting
+gang
+gang conflict
+gang feud
+gang retaliation
+gang violence
+gas attack
+gas disruption
+gas explosion
+gas leak
+gas outage
+gas pipeline disruption
+gas shortage
+gate breach
+gatecrashers
+gathering ban
+general strike
+general strikes
+genocide
+geological disaster
+geological instability
+geomagnetic disturbance
+geomagnetic storm
+gilets jaunes
+globalisation
+governance
+government
+government collapse
+government effectiveness
+government integrity
+government overthrow
+government shutdown
+government stability
+governor
+grain dust explosion
+grain elevator collapse
+grain silo explosion
+grenade
+grenade attack
+grid failure
+grid instability
+grope woman
+groping woman
+ground rupture
+groundwater pollution
+guard injured
+gun battle
+gun violence
+gunbattle
+gunfight
+gunfire
+gunfire exchange
+gunman
+gunmen
+gunmen attack
+gunmen attacked
+gunmen fired
+gunmen in
+gunmen kill
+gunmen killed
+gunmen loot
+gunmen looted
+gunmen looting
+gunmen on
+gunmen opened
+gunmen pillage
+gunmen shot
+gunned
+gunned down
+guns
+gunshots
+hailstorm
+harassed
+harassment
+harmful algal bloom
+harming
+harrased
+hartal
+hate crime
+hate crime incident
+hate rally
+hate speech incident
+have blocked
+hazard
+hazard response
+hazardous
+hazardous air quality
+hazardous condition
+hazardous conditions
+hazardous incident
+hazardous materials
+hazardous release
+hazardous situation
+hazardous weather
+hazmat
+hazmat alert
+hazmat spill
+hazmat team deployed
+head of
+head of army
+health alert
+health emergency
+health hazard
+healthcare disruption
+heat emergency
+heat wave
+heatstroke outbreak
+heatwave
+heavy rain
+heavy rainfall
+heavy rains
+heavy snow
+heavy snowfall
+heavy storm
+heightened alert
+heightened security
+helicopter crash
+helicopter fall
+high alert
+high-alert situation
+high-alert status
+high-priority alert
+high-profile incident
+high-rise incident
+high-risk apprehension
+high-risk arrest
+high-risk individual
+high-risk raid
+high-risk situation
+high-value target
+highway closure
+highway incident
+hijack
+hijacked
+hijackers
+hijacking
+hijacking plane
+hit and run
+hits
+hitting
+hoarding
+hoax device
+home invasion
+home invasion robbery
+home minister
+home-made explosive
+homemade bomb
+homemade explosive
+homicide
+horrific
+hospital
+hospital evacuation
+hospital lockdown
+hospitalized
+hostage crisis
+hostage freed
+hostage negotiation
+hostage rescue
+hostage situation
+hostage standoff
+hostage-taking
+hostages
+hostile actor
+hostile event
+hostile intrusion
+hostile reconnaissance
+huge fire
+human smuggling
+human trading
+human trafficking
+humanitarian crisis
+hundred people
+hundreds march
+hundreds of people
+hunger strike
+hurricane
+hurt
+hyperinflation
+hyperinflation warning
+hypothermia emergency
+ice jam flooding
+ice storm
+ideological attack
+illegal
+illegal border crossing
+illegal demonstration
+illegal entry
+illegal gathering
+illegal immigrant enter
+immediate threat
+immigration crisis
+imminent danger
+imminent threat
+immobilized
+improvised
+improvised explosive
+improvised explosive device
+improvised incendiary device
+in armed
+in the streets
+incapacitating agents
+incendiary
+incendiary attack
+incendiary device
+inches of
+incident
+incident command
+incident command established
+incident contained
+incident investigation
+incident management team
+incident ongoing
+incident report
+incident response
+industrial accident
+industrial accidents
+industrial contamination
+industrial disaster
+industrial disasters
+infected
+infectious agent
+infectious cluster
+infectious disease
+infectious disease outbreak
+infectious outbreak
+infiltration
+information minister
+infrastructure attack
+infrastructure collapse
+infrastructure compromise
+infrastructure cyberattack
+infrastructure emergency
+infrastructure failure
+infrastructure hack
+infrastructure sabotage
+infrastructure vulnerability
+inhuman
+inhuman treatment
+injure
+injured
+injures
+injuries
+injuring
+insider threat
+instability
+insurgent
+insurgent attack
+insurgents
+insurrection
+interagency response
+interior minister
+international conflict
+international delegation
+international sanctions imposed
+interrupted attack
+intimidation
+intoxicated
+intruder
+intruder alert
+intrusion
+intrusion detection
+investigating
+investigation
+iron bars
+islamic state
+islamophobic
+jailbreak
+jailed
+jewelry heist
+joint task force
+judge
+justice
+kidnap
+kidnapped
+kidnapper
+kidnappers
+kidnapping
+kidnapping attempt
+kidnappings
+kidnaps
+kill
+killed
+killing
+killing spree
+kills
+knife
+knife attack
+knife crime
+knife rampage
+knives
+knocked down
+labor
+labor strike
+labor strikes
+laborers
+labour strike
+labour strikes
+labout minister
+land missile
+land missiles
+land subsidence
+land warfare
+landmine
+landsink
+landslide
+landslides
+landslip
+large numbers
+laser interference
+latest
+laundering
+lava
+lava flow alert
+law enforcement alert
+law enforcement operation
+lead contamination
+leader of
+leakage
+legislate
+lethal
+lethal substance
+letter bomb
+levee breach
+levee break
+levee failure
+level ozone
+life-threatening event
+lightning strike
+lion attack
+lion killed
+liquidity crisis
+liquidity crisis declared
+local official
+local politicians
+lock down
+lock-down
+lockdown
+lockdown order
+locked down
+locked out
+loot
+looted
+looting
+looting against
+looting throughout
+lynched
+lynching
+machete attack
+machete rampage
+machetes
+machine gun attack
+magma
+magnitude
+major disruption
+major emergency
+major failure
+major incident
+make landfall
+malfunctioning
+manhunt
+manslaughter
+march against
+marched
+marching
+maritime
+maritime accident
+maritime alert
+maritime blockade
+maritime collision
+maritime disaster
+maritime distress
+maritime emergency
+maritime intrusion
+maritime piracy
+maritime rescue operation
+maritime security
+maritime security incident
+maritime warfare
+market circuit-breaker
+market collapse
+market crash
+market failure
+market halt
+market panic
+martial law
+martial law declared
+martyrdom
+martyrdom operation
+mass abduction
+mass blackout
+mass brawl
+mass casualty
+mass demonstration
+mass disruption
+mass disturbance
+mass evacuation
+mass exposure
+mass gathering
+mass hospitalization
+mass illness
+mass incident
+mass infection
+mass injury
+mass mobilization
+mass murder
+mass panic
+mass poisoning
+mass quarantine
+mass rally
+mass rape
+mass rapes
+mass raping
+mass rapings
+mass screening
+mass shooter
+mass shooting
+mass sickness
+mass stabbing
+mass transit disruption
+mass transit shutdown
+mass vaccination disruption
+massacre
+massive blaze
+medical assistance
+medical contamination
+medical emergency
+medical lockdown
+member of
+members of
+mercury contamination
+meteor explosion
+meteor strike
+methamphetamines
+metro disruption
+metro incident
+microburst
+migrant
+migrant crisis
+migrants
+militamen pillage
+militant
+militant attack
+militant clash
+militant infiltration
+militants
+militants opened
+militants shot
+military
+militia
+militia activity
+militia group
+militia looted
+militia pillage
+militia raped
+militia torture
+militia tortured
+militiamen
+militiamen gang-raped
+militiamen looted
+militiamen looting
+militiamen rape
+militiamen raped
+militiamen torture
+militiamen tortured
+mine collapse
+mine disaster
+mine explosion
+minefield
+mini-riot
+minister
+minister of
+ministries
+ministry
+missile
+missile attack
+missiles
+missing person
+mob
+mob attack
+mob violence
+mobilize
+moderate delays
+molotov cocktail
+molotov cocktails
+monetary system
+money laundering
+monsoon flooding
+monsoon rains
+monsoons
+more refugee arrive in
+mortar
+mortar attack
+mosque
+motor vehicle theft
+motorcycle accident
+motorcycle crash
+motorcycle stolen
+motorcycle theft
+mudflow
+mudslide
+mugging
+multiple stabbings
+murder
+murder-suicide
+murdered
+murdering
+mustard gas
+mutiny
+mystery illness
+nationalist violence
+nationwide strike
+natural disaster
+naval conflict
+near miss
+near-collision
+neo‐Nazi
+nerve agent
+nerve agents
+nerve gas
+network disruption
+network failure affecting operations
+network outage affecting safety
+non-violent resistance
+nonviolent
+nonviolent action
+noxious fumes
+nuclear accident
+nuclear attack
+nuclear contamination
+nuclear disaster
+nuclear exercise
+nuclear facility incident
+nuclear incident
+nuclear meltdown
+nuclear meltdowns
+nuclear reactor meltdown
+nuclear threat
+nuclear weapons
+nutritional emergency
+occupation forces
+occupied
+occupy
+occupy demonstration
+occupying
+of refugee enter
+offensive
+officials responding
+oil disruption
+oil minister
+oil rig disaster
+oil spill
+oil supply disruption
+on high alert
+ongoing
+ongoing incident
+ongoing situation
+open its border cross to welcome refugee
+open its border to welcome refugee
+opened fire
+operation
+operation underway
+operational disruption
+operational technology (OT) compromise
+opposition arrest
+opposition crackdown
+opposition party
+opposition violence
+organized crime incident
+out of control vehicle
+outage
+outbreak
+ozone levels
+package bomb
+pandemic
+panic
+panic button activated
+paramilitary
+parliament
+partial building collapse
+partial collapse
+particle pollution
+party headquarter
+party office
+passengers
+patrol increased
+payment system failure
+peaceful march
+peaceful protest
+peaceful protests
+peat fire
+pedestrian incident
+pension fund collapse
+people demand
+people escaping
+perimeter breach
+perimeter established
+perimeter intrusion
+perimeter security
+perpetrator
+person missing
+person of interest
+person of interest identified
+personnel safety
+pesticide exposure
+petrol disruption
+phishing
+phosgene
+physical altercation
+physical sabotage via cyber
+picket
+pillage
+pillaged
+pillaging throughout
+pipe bomb
+pipeline explosion
+pipeline failure
+pipeline leak
+piracy
+piracy attack
+pirates
+pistol
+plane collision
+plane crash
+plane missing
+planned attack
+plant closure
+plunder
+poison gas
+poisoning
+polar vortex
+police
+police activity
+police chase
+police chief
+police forces
+police killed
+police mobilization
+police officer
+police operation
+police station
+police stations
+policemen
+political assassination attempt
+political assassination plot
+political change
+political crisis
+political detention
+political instability
+political opposition
+political unrest escalation
+political uprising
+political violence
+political violence escalation
+politically motivated attack
+politician
+pollution
+pollution alert
+pollution emergency
+port accident
+port closure
+port disruption
+port evacuation
+port security breach
+power cut
+power disruption
+power failure
+power grid failure
+power infrastructure attack
+power line damage
+power outage
+power outages
+power shutdowns
+power surge
+precautionary action
+precautionary closure
+precautionary deployment
+precautionary evacuation
+precautionary lockdown
+precautionary measure
+president
+pressure cooker bomb
+prime minister
+prison break
+prison riot
+prison takeover
+prisoner
+prisoner escape
+probe
+product recall
+product tampering
+prohibited item
+prohibited weapon
+proper regulation
+property damage
+protective action recommendation
+protective measures
+protest
+protest against asylum seeker
+protest against influx of refugee
+protest escalation
+protest march
+protested
+protester clash
+protester kills
+protesters
+protesters clash
+protesters kill
+protesting
+protests
+provincial minister
+prowler spotted
+public advisory
+public alert
+public announcement
+public disorder
+public disturbance
+public emergency
+public gathering
+public health advisory
+public health crisis
+public health emergency
+public health order
+public health threat
+public infrastructure disruption
+public panic
+public safety announcement
+public safety compromised
+public safety emergency
+public safety incident
+public safety notification
+public safety operation
+public safety threat
+public threat
+public warning
+pyroclastic flow
+pyroclastic surge
+quake
+quake-tsunami
+quarantine
+quarantine imposed
+quelled protest
+racial attack
+racial violence
+racially motivated
+racist
+radiation
+radiation detection
+radiation emergency
+radiation leak
+radiations
+radicalization
+radicalized individual
+radioactive contamination
+radioactive discharge
+radioactive exposure
+radioactive leak
+radioactive material
+radioactive plume
+radioactive spill
+radiological emergency
+radiological hazard
+raid
+rail accident
+rail closure
+rail crash
+rail disaster
+rail disruption
+railway sabotage
+rainfalls
+rallies
+rally
+ramming attack
+rampage
+rampage shooting
+ran over people
+rancid food
+ransom
+ransomware attack disrupting operations
+rape
+rapid deployment
+rapid response team
+rationing
+ravaged by
+reactor accident
+rebel
+rebel-held
+rebellion
+recession
+red alert
+refugee
+refugee be flee to
+refugee be move from
+refugee be not welcome
+refugee be strand in
+refugee camp
+refugee crisis
+refugee cross
+refugee emergency
+refugee engaged in a mass brawl
+refugee move into
+refugee protest at
+refugee strand in
+refugee stream into
+refugees
+regime change
+regime collapse
+regime crisis
+regime destabilization
+regulations
+regulatory
+release of radiation
+release of toxic
+religious violence
+remain suspended
+remote infrastructure hack
+remote operational disruption
+remote sabotage
+remote takeover attempt
+report of clash among illegal immigrant
+report of clash among refugee
+report of clash in asylum seeker home
+rescue
+rescue operation
+rescue ops
+rescued
+reservoir breach
+reservoir failure
+resource depletion
+resource scarcity
+resource shortage
+respiratory hazard
+response operation
+restricted access
+restricted zone
+restrictions
+retaliatory violence
+returned fire
+ricin
+ricin attack
+rig accident
+riot
+riot control
+riots
+risk mitigation action
+river flooding
+road blocked
+road closure
+road crash
+road traffic accident
+roadblock
+roads closed
+roadside bomb
+robbed
+robber
+robbers
+robbery
+robbery attempt
+rocket
+rocket attack
+rocket fired
+rockets
+rogue drone
+rogue wave
+rogue wave incident
+rollover accident
+roof collapse
+run on bank
+runaway vehicle
+runway blockage
+runway closure
+runway incursion
+runway obstruction
+sabotage
+sabotage attack
+sabotage attempt
+sabotage detected
+safety breach
+safety precaution
+safety recall
+safety threat
+safety violation
+sanctions
+sandstorm
+sarin
+sarin nerve
+sarvodaya
+satellite disruption
+satellite outage
+scaffolding collapse
+scam
+scandal
+school bus hijacking
+school shooting
+scuffle
+sea missile
+sea missiles
+sea piracy
+search and rescue
+secessionist violence
+sectarian violence
+secure area breach
+security
+security advisory issued
+security alert
+security alert issued
+security breach
+security breach attempt
+security briefing
+security checkpoint
+security checkpoint breach
+security checkpoint failure
+security compromise
+security compromised
+security concern
+security cordon
+security crackdown
+security deployment
+security drill
+security emergency
+security escalation
+security force deployment
+security forces
+security forces mobilized
+security guard attacked
+security incident
+security lapse
+security lockdown
+security measures
+security monitoring
+security officer
+security officials
+security operation
+security operation underway
+security perimeter
+security perimeter breach
+security posture escalation
+security posture heightened
+security precaution
+security procedure activated
+security protocol activated
+security response initiated
+security screening
+security situation
+security situation developing
+security stand-down
+security sweep
+security system breach
+security taskforce deployed
+sedition
+seism
+seismic activity
+seismic anomaly
+seismic event
+seize
+sentenced
+separatist
+separatist attack
+serial arsonist
+serial assault
+serial attacker
+serial killer alert
+serial offender
+serious
+services cancelled
+set fire
+severe delays
+severe threat
+severe thunderstorm
+severe thunderstorms
+sewage overflow
+sex abuse
+sex assault
+sex trafficking
+sexual abuse
+sexual assault
+sexual harassment
+sexual predator
+sexual violence
+sexually abused
+sexually abusing
+sexually assaulting
+shark attack
+shark killed
+shelling
+shelter in place
+shelter order
+shelter-in-place
+shelter-in-place order
+ship accident
+ship crash
+ship exploded
+ship hijacking
+ship sinking
+shipping accident
+shipping disruption
+shipwreck
+shooter
+shooters
+shooting
+shooting rampage
+shooting reported
+shooting spree
+shooting threat
+shootout
+shoots
+shoplift
+shoplifting
+shortage
+shot
+shot and
+shot dead
+shot in
+shots fired
+shots reported
+siege
+sinkhole
+sinkhole collapse
+sinkhole event
+sinkhole widening
+sinking
+sit-down
+sit-in
+situation escalates
+situation evolving
+situation under control
+situation unfolding
+situational awareness advisory
+slapped
+sleeper cell
+sleeper cell activation
+smart-building incident
+smash and grab
+smash and grab robbery
+smog
+smoke bomb
+smoke bombs
+smuggling
+snake bite
+snake poisoning
+sniper
+snow squall
+snowslide
+snowstorm
+soccumb
+social panic
+soil contamination
+soil pollution
+solar flare
+solar radiation storm
+soldiers
+soldiers gang-raped
+soldiers loot
+soldiers looted
+soldiers looting
+soldiers torture
+soldiers tortured
+space weather
+sparked
+special operations
+spiked girl
+spiked woman
+spiking girl
+spiking woman
+sporting event incident
+stab
+stabbed
+stabbing
+stabbing attack
+stabbing incident
+stabbing spree
+stadium evacuation
+stalking
+stampede
+stampede risk
+standoff
+state of calamity
+state of emergency
+state of siege
+state secretary
+stay indoors
+steal
+steal atm
+steal tool
+steal tools
+stealing
+stealing car
+stealing motorcycle
+stealing tool
+stealing tools
+stealing truck
+stealing trucks
+stealing vehicles
+steals cash
+stikes kill
+stole
+stolen car
+stolen vehicle
+storm
+storm surge
+storm surge flooding
+storm warning upgraded
+strangulation
+street blocked
+street fight
+street occupation
+streets blocked
+strike
+strike action
+strike kills
+strikes
+strikes killed
+strong quake
+strong winds
+struck
+structural collapse
+structural damage
+structural failure
+structural instability
+structural integrity
+subdued
+subsidence
+substation attack
+substation failure
+subway evacuation
+subway shutdown
+succumb
+suffocates
+suicide
+suicide attack
+suicide bomber
+suicide bombers
+suicide car
+suicide cars
+suicide terrorist
+suicide vehicles
+suicide veichle
+sulfur mustard
+supercell
+superstorm
+supply chain disruption
+supply chain interruption
+supply disruption
+surveillance failure
+surveillance operation
+surveillance system compromised
+suspect
+suspect apprehended
+suspect barricaded
+suspect escaped
+suspect in custody
+suspect neutralized
+suspected
+suspected attack
+suspected sabotage
+suspects
+suspend travel
+suspicious
+suspicious activity
+suspicious activity report
+suspicious aircraft
+suspicious behavior
+suspicious chemical
+suspicious communications
+suspicious courier
+suspicious death
+suspicious death investigation
+suspicious delivery
+suspicious device
+suspicious drone
+suspicious drone activity
+suspicious fire
+suspicious incident
+suspicious maritime
+suspicious maritime activity
+suspicious object
+suspicious odor
+suspicious package
+suspicious person
+suspicious persons
+suspicious powder
+suspicious social media threat
+suspicious transaction
+suspicious vehicle
+swarm attack
+swat operation
+swatting
+swept away
+swept through
+symbolic protest
+symbolic protests
+synagogue shooting
+system compromise
+system hijack
+tactical alert
+tactical entry
+tactical operation
+tactical response team
+tailgating
+tainted beef
+tainted fish
+tainted food
+tainted product
+tainted products
+tainted seafood
+take to streets
+tampering
+targeted attack
+tear gas
+technical malfunction
+telecom sabotage
+telecommunications outage
+temblor
+temporarily suspended
+temporarily suspends
+temporary suspension
+tens of thousands
+tension
+tensions
+terminal close
+terminal evacuation
+terminal lockdown
+terminals close
+terror
+terror alert
+terror cell
+terror plot
+terror suspect
+terror threat
+terrorism
+terrorist
+terrorist conspiracy
+terrorist infiltration
+terrorist plot disrupted
+terrorists
+the bomb
+the gunmen
+the shooting
+theft
+thermal dissemination
+thief
+thieves
+thousands march
+thousands of people
+threat
+threat advisory
+threat alert
+threat assessment
+threat escalation
+threat neutralized
+threat of violence
+threat to public safety
+threatened
+threatening
+threatening communication
+threatening people
+threatening situation
+threatens
+thunderstorm outbreak
+thunderstorm warning
+thunderstorms
+ticketing disruption
+tidal wave
+tiger attack
+tiger killed
+took to streets
+tornado
+tornadoes
+torrential rain
+torrential rainfall
+torture prisoner
+torture prisoners
+tourists kidnapped
+toxic algae
+toxic chemicals
+toxic cloud
+toxic contamination
+toxic fumes
+toxic leak
+toxic release
+toxic substance
+traffic accident
+traffic alert
+traffic crash
+traffic delays
+traffic disruption
+traffic disruptions
+traffic hazard
+traffic jam
+tragedy
+train accident
+train collision
+train crash
+train derailment
+train derails
+train disaster
+trains collide
+trains suspended
+transformer explosion
+transit closure
+transit disruption
+transit suspended
+transparency
+transport closure
+transport disruption
+transport incident
+transport minister
+transport strike
+transportation accident
+transportation disruption
+transportation hazard
+transportation security incident
+trapped
+trauma
+traumatized
+travel alert
+treason
+tremor
+trespassing
+trespassing incident
+troops
+tropical cyclone
+tropical depression
+tropical storm
+truck accident
+truck bomb
+truck bombs
+truck crash
+truck hijacking
+tsunami
+tsunami alert
+tumult
+tunnel closure
+tunnel fire
+turmoil
+typhoon
+uav strike
+unattended package
+unauthorized access
+unauthorized drone
+unauthorized drone flight
+unauthorized entry
+unauthorized flight
+unauthorized gathering
+uncontained
+under siege
+undercover operation
+unexpectedly
+unexplained death
+unexplained explosion
+unexplained fatalities
+unexplained illness
+unexplained sickness
+unexploded military
+unexploded ordnance
+unexploded ordnance (UXO)
+unfolding
+unfolding situation
+unidentified gunmen
+unidentified substance
+unified command
+union strike
+unknown gunmen
+unknown illness
+unknown substance
+unknown threat
+unlawful sexual
+unregistered firearm
+unrest
+unrest spreads
+unsafe building
+uprising
+urban warfare
+urgent
+urgent response
+utility disruption
+utility emergency
+utility failure
+utility outage
+utility sabotage
+vaccine contamination
+vaccine riot
+vandalism
+vandalisms
+vandalized
+vandals attack
+vandals attacked
+vandals hit
+vandals spray
+vbed
+vbied
+vehicle attack
+vehicle bomber
+vehicle crash
+vehicle pursuit
+vehicle rampage
+vehicle stolen
+vehicle theft
+vehicle theft ring
+vehicle-borne
+vehicle-borne explosive
+vehicle-borne explosive device
+vehicle-ramming attack
+vehicular assault
+vessel collision
+vessel sinking
+vest bomb
+victim
+vigilance
+vigilante
+vigilante justice
+violation
+violence
+violence erupts
+violent
+violent altercation
+violent clash
+violent crime
+violent crowd
+violent demonstration
+violent demonstrations
+violent dispute
+violent disturbance
+violent extremism
+violent extremist
+violent gang
+violent incident
+violent outbreak
+violent protest
+violent protesters
+violent protests
+violent suspect
+violent threat
+viral outbreak
+virus identified
+virus outbreak
+visa restriction imposed
+volcanic activity warning
+volcanic ash cloud
+volcanic eruption
+volcano
+volcano erupts
+voter intimidation
+voyeurism incident
+vx
+wanted suspect
+war
+warehouse fire
+warfare agents
+warned
+warning
+warning issued
+warnings issued
+was shot
+was spiked
+water cannons
+water contamination
+water crisis
+water outage
+water pollution
+water shortage
+water supply
+water supply disruption
+waterborne disease outbreak
+waterborne illness
+weapon
+weapons cache
+weapons of mass destruction
+weapons seizure
+weapons smuggling
+weather conditions
+welcome refugee in
+were shot
+westerner
+white supremacist
+whiteout conditions
+widespread torture
+wild fire
+wildfire
+wildland fire
+wind gust
+winter hazard
+winter storm
+withdrawal restriction
+without electricity
+without power
+wolf attack
+wolf killed
+work stoppage
+worker unrest
+workplace accident
+workplace dispute
+workplace threat
+workplace violence
+worst air
+wounded
+xenophobic attack
+yellow alert
+yellow vest
