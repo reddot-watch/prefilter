@@ -64,7 +64,7 @@ go get github.com/reddot-watch/prefilter
 
 ```go
 // Initialize with English keywords
-filter, err := prefilter.NewFilter("en", reddot_prefilter.DefaultOptions())
+filter, err := prefilter.NewFilter("en", prefilter.DefaultOptions())
 
 // Sample news headline
 text := "At least 11 dead in indonesian boat accidents"
