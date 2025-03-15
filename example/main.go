@@ -19,8 +19,14 @@ func main() {
 
 	// Match a security headline.
 	text := "At least 11 dead in indonesian boat accidents"
-	if filter.Match(text) {
+	//text := "Are earmarks in DOGE sights? Previous ban saved $141 billion * WorldNetDaily * by Jeremy Portnoy, Real Clear Wire"
+	if ok, matches := filter.MatchWithDetails(text); ok {
 		fmt.Println("Found match")
+		for _, m := range matches {
+			fmt.Println(m)
+		}
+	} else {
+		fmt.Println("No match")
 	}
 
 	// Try to create filters for different languages

@@ -152,9 +152,10 @@ func levenshtein(a, b string) int {
 	return previousRow[n]
 }
 
-// fuzzyMatch returns true if the Levenshtein distance between s and t
-// is within the given threshold. It performs quick checks before computing
-// the full Levenshtein distance for better performance.
+// fuzzyMatch compares two strings and returns true if they're similar within the given threshold.
+// It performs quick checks before computing. Uses Levenshtein distance for comparison.
+// For short words (≤5 chars) with distance=1, rejects matches where the first character differs
+// (e.g. "fire" won't match "wire", but might match "fired" depending on threshold).
 func fuzzyMatch(s, t string, threshold int) bool {
 	// Quick check for exact match
 	if s == t {
@@ -171,7 +172,32 @@ func fuzzyMatch(s, t string, threshold int) bool {
 		return false
 	}
 
-	return levenshtein(s, t) <= threshold
+	levenDistance := levenshtein(s, t)
+
+	// If distance is 1 and we're matching short keywords,
+	// check if the first character differs
+	if levenDistance == 1 && threshold >= 1 && len(s) <= 5 && len(t) <= 5 {
+		// Find which position differs
+		diffPos := findDifferencePosition(s, t)
+
+		// Reject matches where first character differs
+		if diffPos == 0 {
+			return false
+		}
+	}
+
+	return levenDistance <= threshold
+}
+
+// Helper function to find position of difference
+func findDifferencePosition(s1, s2 string) int {
+	minLen := min(len(s1), len(s2))
+	for i := 0; i < minLen; i++ {
+		if s1[i] != s2[i] {
+			return i
+		}
+	}
+	return minLen // Difference is in length
 }
 
 // matchPhraseInTokens checks if the phrase appears in the tokens in order.
