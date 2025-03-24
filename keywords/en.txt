@@ -164,9 +164,10 @@ army barracks
 army chief
 army headquarter
 arrest
+arrests
 arrest warrant
 arrested
-arrivie refugee in
+arrive refugee in
 arson
 arson attack
 arson attacks
