@@ -1403,6 +1403,7 @@ missile
 missile attack
 missiles
 missing person
+missing plane
 mob
 mob attack
 mob violence
@@ -2424,3 +2425,5 @@ wounded
 xenophobic attack
 yellow alert
 yellow vest
+weather outages
+severe weather
